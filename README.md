@@ -23,7 +23,7 @@ Add `<Kasay.DependencyPropertyUwp/>` to [FodyWeavers.xml](https://github.com/Fod
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
-  <Kasay.DependencyProperty.UWP />
+  <Kasay.DependencyPropertyUwp />
 </Weavers>
 ```
 

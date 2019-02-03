@@ -1,0 +1,10 @@
+﻿<Project Sdk="MSBuild.Sdk.Extras/1.6.61">
+  <PropertyGroup>
+    <TargetFramework>uap10.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kasay.DependencyPropertyUwp\Kasay.DependencyPropertyUwp.csproj" />
+  </ItemGroup>
+
+</Project>

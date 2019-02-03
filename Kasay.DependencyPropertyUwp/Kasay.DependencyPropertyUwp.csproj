@@ -1,0 +1,10 @@
+﻿<Project Sdk="MSBuild.Sdk.Extras/1.6.61">
+  <PropertyGroup>
+    <TargetFramework>uap10.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fody" Version="3.3.5" PrivateAssets="None" />
+  </ItemGroup>
+  
+</Project>
